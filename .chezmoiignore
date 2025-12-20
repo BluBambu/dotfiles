@@ -1,1 +1,4 @@
 **/.DS_Store
+.oh-my-zsh/cache/**
+**/*.zwc
+.oh-my-zsh/custom/themes/powerlevel10k/gitstatus/**
